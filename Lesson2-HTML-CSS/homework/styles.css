@@ -1,0 +1,17 @@
+img {
+    width: 400px;
+    height: 425px;
+}
+
+#thirdDiv {
+    height: 900px;
+    width: 500px;
+    background-color: lightgrey;
+    padding: 50px;
+    border: 5px solid black
+}
+
+#spanId {
+    font-size: 18px;
+    margin: 50px;
+}
